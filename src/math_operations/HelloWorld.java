@@ -13,4 +13,9 @@ public class HelloWorld
 		int c = a + b;
 		System.out.println("Sum Of numbers : " + c);
 	}
+	public void sub(int a, int b)
+	{
+		int c = a - b;
+		System.out.println("Subtraction : " + c);
+	}
 }
